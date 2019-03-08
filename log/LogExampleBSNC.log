@@ -1,0 +1,40 @@
+2019-03-07 16:40:20:053 main.log4j_example:14 DEBUG - Debug message
+2019-03-07 16:40:20:056 main.log4j_example:15 INFO  - Info message
+2019-03-07 16:40:20:056 main.log4j_example:16 WARN  - Warn message
+2019-03-07 16:40:20:056 main.log4j_example:17 ERROR - Error message
+2019-03-07 16:40:20:056 main.log4j_example:18 FATAL - Fatal message
+2019-03-07 16:46:41:949 root:main DEBUG - Debug message
+2019-03-07 16:46:41:951 root:main INFO  - Info message
+2019-03-07 16:46:41:951 root:main WARN  - Warn message
+2019-03-07 16:46:41:951 root:main ERROR - Error message
+2019-03-07 16:46:41:951 root:main FATAL - Fatal message
+2019-03-07 16:47:23:502 log4j_example.java:main DEBUG - Debug message
+2019-03-07 16:47:23:504 log4j_example.java:main INFO  - Info message
+2019-03-07 16:47:23:504 log4j_example.java:main WARN  - Warn message
+2019-03-07 16:47:23:504 log4j_example.java:main ERROR - Error message
+2019-03-07 16:47:23:505 log4j_example.java:main FATAL - Fatal message
+2019-03-07 16:48:11:120 root log4j_example.java:main DEBUG - Debug message
+2019-03-07 16:48:11:122 root log4j_example.java:main INFO  - Info message
+2019-03-07 16:48:11:122 root log4j_example.java:main WARN  - Warn message
+2019-03-07 16:48:11:122 root log4j_example.java:main ERROR - Error message
+2019-03-07 16:48:11:123 root log4j_example.java:main FATAL - Fatal message
+2019-03-07 16:48:52:419 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main DEBUG - Debug message
+2019-03-07 16:48:52:421 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main INFO  - Info message
+2019-03-07 16:48:52:421 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main WARN  - Warn message
+2019-03-07 16:48:52:422 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main ERROR - Error message
+2019-03-07 16:48:52:422 main.log4j_example.main(log4j_example.java:18) root log4j_example.java:main FATAL - Fatal message
+2019-03-07 16:50:10:634 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main DEBUG - Debug message
+ main2019-03-07 16:50:10:636 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main INFO  - Info message
+ main2019-03-07 16:50:10:636 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main WARN  - Warn message
+ main2019-03-07 16:50:10:636 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main ERROR - Error message
+ main2019-03-07 16:50:10:636 main.log4j_example.main(log4j_example.java:18) root log4j_example.java:main FATAL - Fatal message
+ main[DEBUG] 2019-03-07 17:03:36:144 main.log4j_example.main(log4j_example.java:14) root log4j_example.java:main DEBUG - Debug message
+[INFO] 2019-03-07 17:03:36:148 main.log4j_example.main(log4j_example.java:15) root log4j_example.java:main INFO  - Info message
+[WARN] 2019-03-07 17:03:36:148 main.log4j_example.main(log4j_example.java:16) root log4j_example.java:main WARN  - Warn message
+[ERROR] 2019-03-07 17:03:36:148 main.log4j_example.main(log4j_example.java:17) root log4j_example.java:main ERROR - Error message
+[FATAL] 2019-03-07 17:03:36:148 main.log4j_example.main(log4j_example.java:18) root log4j_example.java:main FATAL - Fatal message
+[DEBUG] 2019-03-07 17:19:11:161 main.log4j_example.main(log4j_example.java:14) root log4j_example log4j_example.java:main DEBUG - Debug message
+[INFO] 2019-03-07 17:19:11:163 main.log4j_example.main(log4j_example.java:15) root log4j_example log4j_example.java:main INFO  - Info message
+[WARN] 2019-03-07 17:19:11:163 main.log4j_example.main(log4j_example.java:16) root log4j_example log4j_example.java:main WARN  - Warn message
+[ERROR] 2019-03-07 17:19:11:163 main.log4j_example.main(log4j_example.java:17) root log4j_example log4j_example.java:main ERROR - Error message
+[FATAL] 2019-03-07 17:19:11:163 main.log4j_example.main(log4j_example.java:18) root log4j_example log4j_example.java:main FATAL - Fatal message

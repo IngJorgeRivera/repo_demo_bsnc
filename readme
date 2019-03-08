@@ -1,0 +1,8 @@
+# log4j Simple Application
+
+This repository is just a very simple example on how to log an exception using log4j. 
+
+Prerequisites:
+1. Netbeans 8.1
+2. Java SE 1.8
+3. Maven (to include log4j dependency)
